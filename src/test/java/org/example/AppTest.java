@@ -20,7 +20,6 @@ public class AppTest
         System.out.println("test02--------" );
         System.out.println("test03--------" );
         System.out.println("test04--------" );
-        System.out.println("主干--------" );
-        System.out.println("分支操作--------" );
+        System.out.println("c1操作--------" );
     }
 }
